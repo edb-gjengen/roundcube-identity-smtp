@@ -1,5 +1,7 @@
 # identity_smtp Roundcube Plugin
 
+This is a fork of https://github.com/deflomu/Roundcube-SMTP-per-Identity-Plugin
+
 This Roundcube plugin allows you to setup identities with different SMTP servers
 from the RC installation's default.
 
